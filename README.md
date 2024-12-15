@@ -37,7 +37,7 @@ To get started with the project, follow these steps:
 
 - **Home Page**: Provides an overview of the game and a button to navigate to the game tab.
 - **Game Tab**: 
-  - **Create Game**: Users can create a game by selecting the game type (Quick Match, Best of Three, Championship) and setting a stake in MantleSepolia  ETH.
+  - **Create Game**: Users can create a game by selecting the game type (Quick Match, Best of Three, Championship) and setting a stake in MantleSepolia  MNT.
   - **Join Game**: Users can search for existing games using a game ID and join if there is an available slot.
 - **Real-Time Gameplay**: Players are notified of their opponent's moves, and results are displayed only after both players have made their moves.
 - **History Tab**: Users can view their past games and move history for transparency.

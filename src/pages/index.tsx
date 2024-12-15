@@ -50,7 +50,7 @@ const Home: NextPage = () => {
                 Play to Earn
               </h3>
               <p className='text-gray-300 text-sm'>
-                Win ETH by outsmarting your opponents in this classic game
+                Win MNT by outsmarting your opponents in this classic game
               </p>
             </div>
           </div>

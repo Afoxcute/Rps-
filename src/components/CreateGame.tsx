@@ -180,16 +180,16 @@ export default function CreateGame() {
               min='0'
               value={stakeAmount}
               onChange={(e) => setStakeAmount(e.target.value)}
-              placeholder='Enter ETH amount'
+              placeholder='Enter MNT amount'
               className='w-full pl-10 pr-12 py-3 bg-gray-800 border-2 border-gray-700 rounded-lg focus:outline-none focus:border-blue-500 transition-colors text-white'
             />
             <div className='absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none'>
-              <span className='text-gray-400'>ETH</span>
+              <span className='text-gray-400'>MNT</span>
             </div>
           </div>
           <p className='flex items-center text-sm text-gray-400'>
             <Info className='w-4 h-4 mr-1' />
-            Stake must be greater than 0 ETH
+            Stake must be greater than 0 MNT
           </p>
         </div>
 

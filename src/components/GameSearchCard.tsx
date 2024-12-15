@@ -119,7 +119,7 @@ const GameSearchCard: React.FC<GameSearchCardProps> = ({
             <div className='mt-1 flex items-center gap-3'>
               <div className='flex items-center gap-1.5 text-gray-400'>
                 <CircleDollarSign className='h-4 w-4 text-yellow-500' />
-                <span>{formattedStake} ETH</span>
+                <span>{formattedStake} MNT</span>
               </div>
               <div className='flex items-center gap-1.5 text-gray-400'>
                 {hasSecondPlayer ? (
