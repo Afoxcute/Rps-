@@ -17,8 +17,8 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rockpaperscissors.git
-   cd rockpaperscissors
+   git clone https://github.com/yourusername/rps-.git
+   cd rps-
    ```
 
 2. Install the dependencies:
